@@ -1,0 +1,12 @@
+{
+  "name": "minds-that-changed-the-world",
+  "version": "5.0.0",
+  "private": true,
+  "description": "A static scientific discovery museum and data science learning academy",
+  "scripts": {
+    "test": "node tests/math.cjs && node tests/research-project.cjs && node tests/v5-browser.cjs",
+    "test:python": "node tests/python-browser.cjs",
+    "check:links": "python3 scripts/check-links.py --all"
+  },
+  "devDependencies": {"playwright": "1.62.1"}
+}

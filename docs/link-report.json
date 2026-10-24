@@ -1,0 +1,701 @@
+{
+  "checkedAt": "2026-10-24T06:43:19.305520+00:00",
+  "results": [
+    {
+      "url": "https://amturing.acm.org/award_winners/lecun_6017366.cfm",
+      "checkedAt": "2026-10-24T06:43:08.269137+00:00",
+      "status": "blocked",
+      "http": 403,
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://archive.ics.uci.edu/dataset/53/iris",
+      "checkedAt": "2026-10-24T06:43:08.269334+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://archive.ics.uci.edu/dataset/53/iris"
+    },
+    {
+      "url": "https://deming.org/explore/fourteen-points/",
+      "checkedAt": "2026-10-24T06:43:08.269395+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://deming.org/explore/fourteen-points/"
+    },
+    {
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "checkedAt": "2026-10-24T06:43:08.269442+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://developers.google.com/machine-learning/crash-course"
+    },
+    {
+      "url": "https://docs.python.org/3/tutorial/",
+      "checkedAt": "2026-10-24T06:43:08.461884+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "url": "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x",
+      "checkedAt": "2026-10-24T06:43:08.602186+00:00",
+      "status": "ok",
+      "http": 202,
+      "finalURL": "https://ieeexplore.ieee.org/document/6773024"
+    },
+    {
+      "url": "https://doi.org/10.1023/A:1010933404324",
+      "checkedAt": "2026-10-24T06:43:08.741738+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://link.springer.com/article/10.1023/A:1010933404324?error=cookies_not_supported&code=362f3070-fe51-4c5a-9c69-0f8a7610fc29"
+    },
+    {
+      "url": "https://doi.org/10.1038/s42256-019-0048-x",
+      "checkedAt": "2026-10-24T06:43:09.056258+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.nature.com/articles/s42256-019-0048-x?error=cookies_not_supported&code=a2cc093e-05b7-49c6-be60-0afab8677c4c"
+    },
+    {
+      "url": "https://doi.org/10.1098/rstl.1763.0053",
+      "checkedAt": "2026-10-24T06:43:09.236547+00:00",
+      "status": "blocked",
+      "http": 403,
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1111/j.1751-5823.2001.tb00477.x",
+      "checkedAt": "2026-10-24T06:43:09.413558+00:00",
+      "status": "blocked",
+      "http": 403,
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1112/plms/s2-42.1.230",
+      "checkedAt": "2026-10-24T06:43:10.130963+00:00",
+      "status": "blocked",
+      "http": 403,
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abraham_de_Moivre",
+      "checkedAt": "2026-10-24T06:43:10.156240+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Abraham_de_Moivre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andrey_Kolmogorov",
+      "checkedAt": "2026-10-24T06:43:10.519756+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Andrey_Kolmogorov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anima_Anandkumar",
+      "checkedAt": "2026-10-24T06:43:10.846280+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Anima_Anandkumar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+      "checkedAt": "2026-10-24T06:43:10.874960+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Blaise_Pascal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu",
+      "checkedAt": "2026-10-24T06:43:11.202697+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christiaan_Huygens",
+      "checkedAt": "2026-10-24T06:43:11.381497+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cynthia_Breazeal",
+      "checkedAt": "2026-10-24T06:43:11.415573+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Cynthia_Breazeal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/DJ_Patil",
+      "checkedAt": "2026-10-24T06:43:11.670814+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/DJ_Patil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Cox_(statistician)",
+      "checkedAt": "2026-10-24T06:43:11.727547+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/David_Cox_(statistician)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Donoho",
+      "checkedAt": "2026-10-24T06:43:11.814379+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/David_Donoho"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demis_Hassabis",
+      "checkedAt": "2026-10-24T06:43:11.814522+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Demis_Hassabis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Donald_Knuth",
+      "checkedAt": "2026-10-24T06:43:11.972570+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Donald_Knuth"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Donald_Rubin",
+      "checkedAt": "2026-10-24T06:43:12.062987+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Donald_Rubin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dorothy_Vaughan",
+      "checkedAt": "2026-10-24T06:43:12.063094+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Dorothy_Vaughan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edgar_F._Codd",
+      "checkedAt": "2026-10-24T06:43:12.229376+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Edgar_F._Codd"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egon_Pearson",
+      "checkedAt": "2026-10-24T06:43:12.231566+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Egon_Pearson"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Elinor_Ostrom",
+      "checkedAt": "2026-10-24T06:43:12.231690+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Elinor_Ostrom"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Elizebeth_Smith_Friedman",
+      "checkedAt": "2026-10-24T06:43:12.392213+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Elizebeth_Smith_Friedman"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Esther_Duflo",
+      "checkedAt": "2026-10-24T06:43:12.392679+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Esther_Duflo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francis_Galton",
+      "checkedAt": "2026-10-24T06:43:12.393540+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Francis_Galton"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Dantzig",
+      "checkedAt": "2026-10-24T06:43:12.484086+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/George_Dantzig"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_E._P._Box",
+      "checkedAt": "2026-10-24T06:43:12.606102+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/George_E._P._Box"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gertrude_Mary_Cox",
+      "checkedAt": "2026-10-24T06:43:12.637066+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Gertrude_Mary_Cox"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hilary_Mason",
+      "checkedAt": "2026-10-24T06:43:12.640098+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Hilary_Mason"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ingrid_Daubechies",
+      "checkedAt": "2026-10-24T06:43:12.693138+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Ingrid_Daubechies"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+      "checkedAt": "2026-10-24T06:43:12.734845+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jennifer_Doudna",
+      "checkedAt": "2026-10-24T06:43:12.768153+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Jennifer_Doudna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jerzy_Neyman",
+      "checkedAt": "2026-10-24T06:43:12.782296+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Jerzy_Neyman"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karen_Sp\u00e4rck_Jones",
+      "checkedAt": "2026-10-24T06:43:12.782347+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karl_Pearson",
+      "checkedAt": "2026-10-24T06:43:12.814413+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Karl_Pearson"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+      "checkedAt": "2026-10-24T06:43:12.843663+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Katherine_Johnson"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+      "checkedAt": "2026-10-24T06:43:12.869279+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marian_Rejewski",
+      "checkedAt": "2026-10-24T06:43:12.871182+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Marian_Rejewski"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+      "checkedAt": "2026-10-24T06:43:12.912883+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+      "checkedAt": "2026-10-24T06:43:12.933409+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rana_el_Kaliouby",
+      "checkedAt": "2026-10-24T06:43:12.965362+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Rana_el_Kaliouby"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Richard_Hamming",
+      "checkedAt": "2026-10-24T06:43:12.966831+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Richard_Hamming"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Tibshirani",
+      "checkedAt": "2026-10-24T06:43:13.016141+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Robert_Tibshirani"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Syukuro_Manabe",
+      "checkedAt": "2026-10-24T06:43:13.038841+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Syukuro_Manabe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Bayes",
+      "checkedAt": "2026-10-24T06:43:13.058411+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Thomas_Bayes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trevor_Hastie",
+      "checkedAt": "2026-10-24T06:43:13.060176+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Trevor_Hastie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tu_Youyou",
+      "checkedAt": "2026-10-24T06:43:13.104224+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Tu_Youyou"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Sealy_Gosset",
+      "checkedAt": "2026-10-24T06:43:13.135783+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/William_Sealy_Gosset"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio",
+      "checkedAt": "2026-10-24T06:43:13.157708+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
+    },
+    {
+      "url": "https://filmsandfestivals.britishcouncil.org/projects/the-imitation-game",
+      "checkedAt": "2026-10-24T06:43:13.165948+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://filmsandfestivals.britishcouncil.org/projects/the-imitation-game"
+    },
+    {
+      "url": "https://ftp.cs.ucla.edu/pub/stat_ser/ACMBook-published-2022.pdf",
+      "checkedAt": "2026-10-24T06:43:13.204222+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://ftp.cs.ucla.edu/pub/stat_ser/ACMBook-published-2022.pdf"
+    },
+    {
+      "url": "https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf",
+      "checkedAt": "2026-10-24T06:43:13.229996+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf"
+    },
+    {
+      "url": "https://hadley.nz/",
+      "checkedAt": "2026-10-24T06:43:13.246449+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://hadley.nz/"
+    },
+    {
+      "url": "https://hai.stanford.edu/people/fei-fei-li",
+      "checkedAt": "2026-10-24T06:43:13.414581+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://hai.stanford.edu/people/fei-fei-li"
+    },
+    {
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fisher/",
+      "checkedAt": "2026-10-24T06:43:13.414837+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://mathshistory.st-andrews.ac.uk/Biographies/Fisher/"
+    },
+    {
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/",
+      "checkedAt": "2026-10-24T06:43:13.472752+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/"
+    },
+    {
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/",
+      "checkedAt": "2026-10-24T06:43:13.549205+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/"
+    },
+    {
+      "url": "https://opportunityinsights.org/",
+      "checkedAt": "2026-10-24T06:43:13.927218+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://opportunityinsights.org/"
+    },
+    {
+      "url": "https://president.yale.edu/biography-grace-murray-hopper",
+      "checkedAt": "2026-10-24T06:43:13.971940+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://president.yale.edu/biography-grace-murray-hopper"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v81/buolamwini18a",
+      "checkedAt": "2026-10-24T06:43:14.067583+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://proceedings.mlr.press/v81/buolamwini18a"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v81/buolamwini18a.html",
+      "checkedAt": "2026-10-24T06:43:14.140864+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://proceedings.mlr.press/v81/buolamwini18a.html"
+    },
+    {
+      "url": "https://psychclassics.yorku.ca/Lovelace/lovelace.htm",
+      "checkedAt": "2026-10-24T06:43:14.169384+00:00",
+      "status": "network-error",
+      "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1144)"
+    },
+    {
+      "url": "https://science.nasa.gov/people/katherine-johnson/",
+      "checkedAt": "2026-10-24T06:43:14.249518+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://science.nasa.gov/people/katherine-johnson/"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/getting_started.html",
+      "checkedAt": "2026-10-24T06:43:14.319060+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://scikit-learn.org/stable/getting_started.html"
+    },
+    {
+      "url": "https://teachablemachine.withgoogle.com/",
+      "checkedAt": "2026-10-24T06:43:14.322163+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://teachablemachine.withgoogle.com/"
+    },
+    {
+      "url": "https://turingarchive.kings.cam.ac.uk/about-alan-turing",
+      "checkedAt": "2026-10-24T06:43:14.338237+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://turingarchive.kings.cam.ac.uk/about-alan-turing"
+    },
+    {
+      "url": "https://wellcomecollection.org/works/jxwtskzc",
+      "checkedAt": "2026-10-24T06:43:14.368382+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://wellcomecollection.org/works/jxwtskzc"
+    },
+    {
+      "url": "https://wellcomecollection.org/works/p7vzkber",
+      "checkedAt": "2026-10-24T06:43:14.565952+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://wellcomecollection.org/works/p7vzkber"
+    },
+    {
+      "url": "https://www.andrewng.org/",
+      "checkedAt": "2026-10-24T06:43:14.674014+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.andrewng.org/"
+    },
+    {
+      "url": "https://www.britannica.com/biography/John-Wilder-Tukey",
+      "checkedAt": "2026-10-24T06:43:14.757102+00:00",
+      "status": "blocked",
+      "http": 403,
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5334a1.htm",
+      "checkedAt": "2026-10-24T06:43:14.807641+00:00",
+      "status": "blocked",
+      "http": 403,
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.computerhistory.org/babbage/",
+      "checkedAt": "2026-10-24T06:43:14.876439+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.computerhistory.org/babbage/"
+    },
+    {
+      "url": "https://www.gapminder.org/about/about-gapminder/history/",
+      "checkedAt": "2026-10-24T06:43:14.886020+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.gapminder.org/about/about-gapminder/history/"
+    },
+    {
+      "url": "https://www.gapminder.org/data/",
+      "checkedAt": "2026-10-24T06:43:14.899886+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.gapminder.org/data/"
+    },
+    {
+      "url": "https://www.gutenberg.org/ebooks/72894",
+      "checkedAt": "2026-10-24T06:43:14.935168+00:00",
+      "status": "network-error",
+      "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1144)"
+    },
+    {
+      "url": "https://www.itl.nist.gov/div898/handbook/eda/eda.htm",
+      "checkedAt": "2026-10-24T06:43:15.098411+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.itl.nist.gov/div898/handbook/eda/eda.htm"
+    },
+    {
+      "url": "https://www.itl.nist.gov/div898/handbook/pmc/section3/pmc322.htm",
+      "checkedAt": "2026-10-24T06:43:15.106142+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.itl.nist.gov/div898/handbook/pmc/section3/pmc322.htm"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/people/florence-nightingale",
+      "checkedAt": "2026-10-24T06:43:15.176796+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.kcl.ac.uk/people/florence-nightingale"
+    },
+    {
+      "url": "https://www.khanacademy.org/math",
+      "checkedAt": "2026-10-24T06:43:15.417981+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.khanacademy.org/math"
+    },
+    {
+      "url": "https://www.loc.gov/collections/african-american-photographs-1900-paris-exposition/about-this-collection/",
+      "checkedAt": "2026-10-24T06:43:15.544539+00:00",
+      "status": "blocked",
+      "http": 403,
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/publication/datasheets-for-datasets/",
+      "checkedAt": "2026-10-24T06:43:15.668742+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.microsoft.com/en-us/research/publication/datasheets-for-datasets/"
+    },
+    {
+      "url": "https://www.nasa.gov/people-of-nasa/katherine-g-johnson/",
+      "checkedAt": "2026-10-24T06:43:15.668829+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.nasa.gov/people-of-nasa/katherine-g-johnson/"
+    },
+    {
+      "url": "https://www.netflix.com/na/title/80190844",
+      "checkedAt": "2026-10-24T06:43:15.793408+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.netflix.com/na/title/80190844"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/",
+      "checkedAt": "2026-10-24T06:43:15.902484+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/physics/2021/manabe/facts/",
+      "checkedAt": "2026-10-24T06:43:16.141660+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.nobelprize.org/prizes/physics/2021/manabe/facts/"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/physics/2024/hinton/facts/",
+      "checkedAt": "2026-10-24T06:43:16.198579+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.nobelprize.org/prizes/physics/2024/hinton/facts/"
+    },
+    {
+      "url": "https://www.openintro.org/book/os/",
+      "checkedAt": "2026-10-24T06:43:16.314701+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.openintro.org/book/os/"
+    },
+    {
+      "url": "https://www.pbs.org/independentlens/documentaries/coded-bias/",
+      "checkedAt": "2026-10-24T06:43:16.360779+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.pbs.org/independentlens/documentaries/coded-bias/"
+    },
+    {
+      "url": "https://www.pbs.org/wgbh/americanexperience/films/codebreaker/",
+      "checkedAt": "2026-10-24T06:43:16.461323+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.pbs.org/wgbh/americanexperience/films/codebreaker/"
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/9780553418835/",
+      "checkedAt": "2026-10-24T06:43:16.617906+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/9780553418835/"
+    },
+    {
+      "url": "https://www.sci.utah.edu/~kpotter/Library/Papers/tukey%3A1977%3AEDA/index.html",
+      "checkedAt": "2026-10-24T06:43:17.194440+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.sci.utah.edu/~kpotter/Library/Papers/tukey%3A1977%3AEDA/index.html"
+    },
+    {
+      "url": "https://www.tensorflow.org/tutorials/images/classification",
+      "checkedAt": "2026-10-24T06:43:17.492098+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.tensorflow.org/tutorials/images/classification"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jbkSRLYSojo",
+      "checkedAt": "2026-10-24T06:43:18.140379+00:00",
+      "status": "ok",
+      "http": 200,
+      "finalURL": "https://www.youtube.com/watch?v=jbkSRLYSojo"
+    }
+  ],
+  "summary": {
+    "blocked": 7,
+    "network-error": 2,
+    "ok": 90
+  }
+}

@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "florence-nightingale",
+    "name": "Florence Nightingale",
+    "era": "2",
+    "discipline": [
+      "Health and data visualization"
+    ],
+    "discoveries": [
+      "Used mortality records and persuasive diagrams to campaign for better military sanitation."
+    ],
+    "visualization": "nightingale",
+    "learningTopics": [
+      "Health and data visualization"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.kcl.ac.uk/people/florence-nightingale"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "john-snow",
+    "name": "John Snow",
+    "era": "2",
+    "discipline": [
+      "Epidemiology"
+    ],
+    "discoveries": [
+      "Mapped cholera deaths, examined water exposure, and challenged the prevailing disease theory."
+    ],
+    "visualization": "snow",
+    "learningTopics": [
+      "Epidemiology"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5334a1.htm"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "ada-lovelace",
+    "name": "Ada Lovelace",
+    "era": "2",
+    "discipline": [
+      "Computing"
+    ],
+    "discoveries": [
+      "Her 1843 notes explored the programmable scope of Babbage’s Analytical Engine."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Computing"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://psychclassics.yorku.ca/Lovelace/lovelace.htm"
+    ],
+    "relatedScientists": [
+      "Charles Babbage",
+      "John von Neumann",
+      "Grace Hopper",
+      "Donald Knuth",
+      "Margaret Hamilton (software engineer)"
+    ]
+  },
+  {
+    "id": "charles-babbage",
+    "name": "Charles Babbage",
+    "era": "2",
+    "discipline": [
+      "Computing"
+    ],
+    "discoveries": [
+      "Designed mechanical computing machinery that prefigured programmable calculation."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Computing"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.computerhistory.org/babbage/"
+    ],
+    "relatedScientists": [
+      "Ada Lovelace",
+      "John von Neumann",
+      "Grace Hopper",
+      "Donald Knuth",
+      "Margaret Hamilton (software engineer)"
+    ]
+  },
+  {
+    "id": "w-e-b-du-bois",
+    "name": "W. E. B. Du Bois",
+    "era": "3",
+    "discipline": [
+      "Social science"
+    ],
+    "discoveries": [
+      "Created evidence-rich presentations of African American social and economic life."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Social science"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.loc.gov/collections/african-american-photographs-1900-paris-exposition/about-this-collection/"
+    ],
+    "relatedScientists": [
+      "Elinor Ostrom"
+    ]
+  },
+  {
+    "id": "carl-friedrich-gauss",
+    "name": "Carl Friedrich Gauss",
+    "era": "2",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Developed influential mathematical methods related to error, estimation and measurement."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/"
+    ],
+    "relatedScientists": [
+      "Ronald Fisher",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Francis Galton",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "alan-turing",
+    "name": "Alan Turing",
+    "era": "4",
+    "discipline": [
+      "Computing and AI"
+    ],
+    "discoveries": [
+      "Defined a general model of computation and helped develop codebreaking methods."
+    ],
+    "visualization": "turing",
+    "learningTopics": [
+      "Computing and AI"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://turingarchive.kings.cam.ac.uk/about-alan-turing"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "john-von-neumann",
+    "name": "John von Neumann",
+    "era": "4",
+    "discipline": [
+      "Computing"
+    ],
+    "discoveries": [
+      "Shaped digital computer architecture, simulation, and mathematical decision theory."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Computing"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/"
+    ],
+    "relatedScientists": [
+      "Ada Lovelace",
+      "Charles Babbage",
+      "Grace Hopper",
+      "Donald Knuth",
+      "Margaret Hamilton (software engineer)"
+    ]
+  },
+  {
+    "id": "claude-shannon",
+    "name": "Claude Shannon",
+    "era": "4",
+    "discipline": [
+      "Information theory"
+    ],
+    "discoveries": [
+      "Formalized how information can be quantified and transmitted amid noise."
+    ],
+    "visualization": "shannon",
+    "learningTopics": [
+      "Information theory"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
+    ],
+    "relatedScientists": [
+      "Richard Hamming"
+    ]
+  },
+  {
+    "id": "ronald-fisher",
+    "name": "Ronald Fisher",
+    "era": "3",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Advanced estimation, hypothesis testing and experimental design; his legacy also requires ethical scrutiny."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://mathshistory.st-andrews.ac.uk/Biographies/Fisher/"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Francis Galton",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "grace-hopper",
+    "name": "Grace Hopper",
+    "era": "4",
+    "discipline": [
+      "Computing"
+    ],
+    "discoveries": [
+      "Developed early compiler technologies and advocated human-readable programming languages."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Computing"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://president.yale.edu/biography-grace-murray-hopper"
+    ],
+    "relatedScientists": [
+      "Ada Lovelace",
+      "Charles Babbage",
+      "John von Neumann",
+      "Donald Knuth",
+      "Margaret Hamilton (software engineer)"
+    ]
+  },
+  {
+    "id": "john-tukey",
+    "name": "John Tukey",
+    "era": "5",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Popularized exploratory data analysis and innovative approaches to understanding data."
+    ],
+    "visualization": "tukey",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.britannica.com/biography/John-Wilder-Tukey"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Francis Galton",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "w-edwards-deming",
+    "name": "W. Edwards Deming",
+    "era": "4",
+    "discipline": [
+      "Industry"
+    ],
+    "discoveries": [
+      "Advanced statistical process improvement and management thinking."
+    ],
+    "visualization": "deming",
+    "learningTopics": [
+      "Industry"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://deming.org/explore/fourteen-points/"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "katherine-johnson",
+    "name": "Katherine Johnson",
+    "era": "4",
+    "discipline": [
+      "Space and mathematics"
+    ],
+    "discoveries": [
+      "Calculated and verified spacecraft trajectories critical to early US spaceflight."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Space and mathematics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://science.nasa.gov/people/katherine-johnson/"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "elizebeth-smith-friedman",
+    "name": "Elizebeth Smith Friedman",
+    "era": "4",
+    "discipline": [
+      "Computing and public service"
+    ],
+    "discoveries": [
+      "Applied pattern analysis to encrypted communications, influencing modern cryptology."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Computing and public service"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.pbs.org/wgbh/americanexperience/films/codebreaker/"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "gertrude-mary-cox",
+    "name": "Gertrude Mary Cox",
+    "era": "4",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Helped expand the practice and teaching of modern applied statistics."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gertrude_Mary_Cox"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "John Tukey",
+      "George E. P. Box",
+      "Francis Galton",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "george-e-p-box",
+    "name": "George E. P. Box",
+    "era": "5",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Advanced time-series analysis, design of experiments and practical modeling."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_E._P._Box"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "Francis Galton",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "william-s-cleveland",
+    "name": "William S. Cleveland",
+    "era": "5",
+    "discipline": [
+      "Data science"
+    ],
+    "discoveries": [
+      "Advanced statistical graphics and proposed a broad technical agenda for data science in 2001."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Data science"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://doi.org/10.1111/j.1751-5823.2001.tb00477.x"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "leo-breiman",
+    "name": "Leo Breiman",
+    "era": "5",
+    "discipline": [
+      "Machine learning"
+    ],
+    "discoveries": [
+      "Co-developed influential predictive modeling ideas, including random forests."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Machine learning"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://doi.org/10.1023/A:1010933404324"
+    ],
+    "relatedScientists": [
+      "Trevor Hastie",
+      "Robert Tibshirani"
+    ]
+  },
+  {
+    "id": "donald-rubin",
+    "name": "Donald Rubin",
+    "era": "5",
+    "discipline": [
+      "Causal inference"
+    ],
+    "discoveries": [
+      "Advanced potential-outcomes reasoning and methods for observational studies."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Causal inference"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Donald_Rubin"
+    ],
+    "relatedScientists": [
+      "Judea Pearl"
+    ]
+  },
+  {
+    "id": "geoffrey-hinton",
+    "name": "Geoffrey Hinton",
+    "era": "5",
+    "discipline": [
+      "Artificial intelligence"
+    ],
+    "discoveries": [
+      "Helped establish neural-network methods that became central to modern machine learning."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Artificial intelligence"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.nobelprize.org/prizes/physics/2024/hinton/facts/"
+    ],
+    "relatedScientists": [
+      "Yann LeCun",
+      "Fei-Fei Li",
+      "Andrew Ng"
+    ]
+  },
+  {
+    "id": "yann-lecun",
+    "name": "Yann LeCun",
+    "era": "6",
+    "discipline": [
+      "Artificial intelligence"
+    ],
+    "discoveries": [
+      "Advanced convolutional neural networks and representation learning."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Artificial intelligence"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://amturing.acm.org/award_winners/lecun_6017366.cfm"
+    ],
+    "relatedScientists": [
+      "Geoffrey Hinton",
+      "Fei-Fei Li",
+      "Andrew Ng"
+    ]
+  },
+  {
+    "id": "fei-fei-li",
+    "name": "Fei-Fei Li",
+    "era": "6",
+    "discipline": [
+      "Artificial intelligence"
+    ],
+    "discoveries": [
+      "Led the ImageNet dataset initiative, a major benchmark for image recognition research."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Artificial intelligence"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://hai.stanford.edu/people/fei-fei-li"
+    ],
+    "relatedScientists": [
+      "Geoffrey Hinton",
+      "Yann LeCun",
+      "Andrew Ng"
+    ]
+  },
+  {
+    "id": "andrew-ng",
+    "name": "Andrew Ng",
+    "era": "6",
+    "discipline": [
+      "Artificial intelligence"
+    ],
+    "discoveries": [
+      "Expanded access to machine-learning education and pursued applied AI research."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Artificial intelligence"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.andrewng.org/"
+    ],
+    "relatedScientists": [
+      "Geoffrey Hinton",
+      "Yann LeCun",
+      "Fei-Fei Li"
+    ]
+  },
+  {
+    "id": "judea-pearl",
+    "name": "Judea Pearl",
+    "era": "5",
+    "discipline": [
+      "Causal inference"
+    ],
+    "discoveries": [
+      "Developed graphical models and causal reasoning frameworks."
+    ],
+    "visualization": "pearl",
+    "learningTopics": [
+      "Causal inference"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://ftp.cs.ucla.edu/pub/stat_ser/ACMBook-published-2022.pdf"
+    ],
+    "relatedScientists": [
+      "Donald Rubin"
+    ]
+  },
+  {
+    "id": "hans-rosling",
+    "name": "Hans Rosling",
+    "era": "6",
+    "discipline": [
+      "Data visualization"
+    ],
+    "discoveries": [
+      "Used animated statistical graphics to challenge misconceptions about global development."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Data visualization"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.gapminder.org/about/about-gapminder/history/"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "cathy-o-neil",
+    "name": "Cathy O’Neil",
+    "era": "6",
+    "discipline": [
+      "Responsible data science"
+    ],
+    "discoveries": [
+      "Explained the social risks of opaque and discriminatory mathematical models."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Responsible data science"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/9780553418835/"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "hilary-mason",
+    "name": "Hilary Mason",
+    "era": "6",
+    "discipline": [
+      "Data science practice"
+    ],
+    "discoveries": [
+      "Helped popularize applied data science in industry and education."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Data science practice"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hilary_Mason"
+    ],
+    "relatedScientists": [
+      "DJ Patil"
+    ]
+  },
+  {
+    "id": "dj-patil",
+    "name": "DJ Patil",
+    "era": "6",
+    "discipline": [
+      "Data science practice"
+    ],
+    "discoveries": [
+      "Helped raise the profile of data science as an organizational and government practice."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Data science practice"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/DJ_Patil"
+    ],
+    "relatedScientists": [
+      "Hilary Mason"
+    ]
+  },
+  {
+    "id": "hadley-wickham",
+    "name": "Hadley Wickham",
+    "era": "6",
+    "discipline": [
+      "Data science tools"
+    ],
+    "discoveries": [
+      "Developed widely used tools and ideas for tidy data and visual analysis in R."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Data science tools"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://hadley.nz/"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "timnit-gebru",
+    "name": "Timnit Gebru",
+    "era": "7",
+    "discipline": [
+      "Responsible AI"
+    ],
+    "discoveries": [
+      "Coauthored research on algorithmic bias and practical documentation of training datasets."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Responsible AI"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.microsoft.com/en-us/research/publication/datasheets-for-datasets/"
+    ],
+    "relatedScientists": [
+      "Cynthia Rudin",
+      "Joy Buolamwini"
+    ]
+  },
+  {
+    "id": "cynthia-rudin",
+    "name": "Cynthia Rudin",
+    "era": "7",
+    "discipline": [
+      "Responsible AI"
+    ],
+    "discoveries": [
+      "Argues for intrinsically interpretable models when decisions have high stakes."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Responsible AI"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://doi.org/10.1038/s42256-019-0048-x"
+    ],
+    "relatedScientists": [
+      "Timnit Gebru",
+      "Joy Buolamwini"
+    ]
+  },
+  {
+    "id": "joy-buolamwini",
+    "name": "Joy Buolamwini",
+    "era": "7",
+    "discipline": [
+      "Responsible AI"
+    ],
+    "discoveries": [
+      "Audited face-analysis systems and documented demographic performance gaps."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Responsible AI"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://proceedings.mlr.press/v81/buolamwini18a"
+    ],
+    "relatedScientists": [
+      "Timnit Gebru",
+      "Cynthia Rudin"
+    ]
+  },
+  {
+    "id": "syukuro-manabe",
+    "name": "Syukuro Manabe",
+    "era": "5",
+    "discipline": [
+      "Climate science"
+    ],
+    "discoveries": [
+      "Built foundational climate models linking atmospheric CO₂ and temperature."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Climate science"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.nobelprize.org/prizes/physics/2021/manabe/facts/"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "esther-duflo",
+    "name": "Esther Duflo",
+    "era": "7",
+    "discipline": [
+      "Economics"
+    ],
+    "discoveries": [
+      "Helped develop and apply randomized evaluations to poverty-related policy questions."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Economics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/"
+    ],
+    "relatedScientists": [
+      "Raj Chetty"
+    ]
+  },
+  {
+    "id": "raj-chetty",
+    "name": "Raj Chetty",
+    "era": "7",
+    "discipline": [
+      "Economics"
+    ],
+    "discoveries": [
+      "Studies economic opportunity and mobility with large administrative datasets."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Economics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://opportunityinsights.org/"
+    ],
+    "relatedScientists": [
+      "Esther Duflo"
+    ]
+  },
+  {
+    "id": "thomas-bayes",
+    "name": "Thomas Bayes",
+    "era": "1",
+    "discipline": [
+      "Probability"
+    ],
+    "discoveries": [
+      "Bayesian inference formalized updating uncertainty with evidence."
+    ],
+    "visualization": "bayes",
+    "learningTopics": [
+      "Probability"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Bayes"
+    ],
+    "relatedScientists": [
+      "Blaise Pascal",
+      "Pierre-Simon Laplace",
+      "Christiaan Huygens",
+      "Jacob Bernoulli",
+      "Abraham de Moivre",
+      "Andrey Kolmogorov"
+    ]
+  },
+  {
+    "id": "blaise-pascal",
+    "name": "Blaise Pascal",
+    "era": "1",
+    "discipline": [
+      "Probability"
+    ],
+    "discoveries": [
+      "Developed foundational probability ideas with Fermat."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Probability"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Blaise_Pascal"
+    ],
+    "relatedScientists": [
+      "Thomas Bayes",
+      "Pierre-Simon Laplace",
+      "Christiaan Huygens",
+      "Jacob Bernoulli",
+      "Abraham de Moivre",
+      "Andrey Kolmogorov"
+    ]
+  },
+  {
+    "id": "pierre-simon-laplace",
+    "name": "Pierre-Simon Laplace",
+    "era": "1",
+    "discipline": [
+      "Probability"
+    ],
+    "discoveries": [
+      "Advanced probabilistic reasoning and celestial mechanics."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Probability"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace"
+    ],
+    "relatedScientists": [
+      "Thomas Bayes",
+      "Blaise Pascal",
+      "Christiaan Huygens",
+      "Jacob Bernoulli",
+      "Abraham de Moivre",
+      "Andrey Kolmogorov"
+    ]
+  },
+  {
+    "id": "christiaan-huygens",
+    "name": "Christiaan Huygens",
+    "era": "1",
+    "discipline": [
+      "Probability"
+    ],
+    "discoveries": [
+      "Wrote an early systematic treatment of probability."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Probability"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+    ],
+    "relatedScientists": [
+      "Thomas Bayes",
+      "Blaise Pascal",
+      "Pierre-Simon Laplace",
+      "Jacob Bernoulli",
+      "Abraham de Moivre",
+      "Andrey Kolmogorov"
+    ]
+  },
+  {
+    "id": "jacob-bernoulli",
+    "name": "Jacob Bernoulli",
+    "era": "1",
+    "discipline": [
+      "Probability"
+    ],
+    "discoveries": [
+      "Established a form of the law of large numbers."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Probability"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
+    ],
+    "relatedScientists": [
+      "Thomas Bayes",
+      "Blaise Pascal",
+      "Pierre-Simon Laplace",
+      "Christiaan Huygens",
+      "Abraham de Moivre",
+      "Andrey Kolmogorov"
+    ]
+  },
+  {
+    "id": "abraham-de-moivre",
+    "name": "Abraham de Moivre",
+    "era": "1",
+    "discipline": [
+      "Probability"
+    ],
+    "discoveries": [
+      "Developed probability approximations that foreshadow the normal distribution."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Probability"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abraham_de_Moivre"
+    ],
+    "relatedScientists": [
+      "Thomas Bayes",
+      "Blaise Pascal",
+      "Pierre-Simon Laplace",
+      "Christiaan Huygens",
+      "Jacob Bernoulli",
+      "Andrey Kolmogorov"
+    ]
+  },
+  {
+    "id": "francis-galton",
+    "name": "Francis Galton",
+    "era": "2",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Advanced regression and correlation precursors; promoted harmful eugenics."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Francis_Galton"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "karl-pearson",
+    "name": "Karl Pearson",
+    "era": "3",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Developed correlation and chi-square methods; eugenics advocacy requires scrutiny."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Karl_Pearson"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Francis Galton",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "jerzy-neyman",
+    "name": "Jerzy Neyman",
+    "era": "3",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Developed confidence interval and hypothesis-testing frameworks."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jerzy_Neyman"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Francis Galton",
+      "Karl Pearson",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "egon-pearson",
+    "name": "Egon Pearson",
+    "era": "3",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Co-developed Neyman–Pearson hypothesis-testing theory."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Egon_Pearson"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Francis Galton",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "William Sealy Gosset",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "andrey-kolmogorov",
+    "name": "Andrey Kolmogorov",
+    "era": "3",
+    "discipline": [
+      "Probability"
+    ],
+    "discoveries": [
+      "Axiomatized modern probability theory."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Probability"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andrey_Kolmogorov"
+    ],
+    "relatedScientists": [
+      "Thomas Bayes",
+      "Blaise Pascal",
+      "Pierre-Simon Laplace",
+      "Christiaan Huygens",
+      "Jacob Bernoulli",
+      "Abraham de Moivre"
+    ]
+  },
+  {
+    "id": "william-sealy-gosset",
+    "name": "William Sealy Gosset",
+    "era": "3",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Developed Student’s t distribution for small samples."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Sealy_Gosset"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Francis Galton",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "David Cox (statistician)",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "dorothy-vaughan",
+    "name": "Dorothy Vaughan",
+    "era": "4",
+    "discipline": [
+      "Space and computing"
+    ],
+    "discoveries": [
+      "Led computing teams and helped advance programming at NASA."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Space and computing"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dorothy_Vaughan"
+    ],
+    "relatedScientists": [
+      "Mary Jackson (engineer)"
+    ]
+  },
+  {
+    "id": "mary-jackson-engineer",
+    "name": "Mary Jackson (engineer)",
+    "era": "4",
+    "discipline": [
+      "Space and computing"
+    ],
+    "discoveries": [
+      "Contributed aeronautics research and advocated workplace opportunity."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Space and computing"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)"
+    ],
+    "relatedScientists": [
+      "Dorothy Vaughan"
+    ]
+  },
+  {
+    "id": "david-cox-statistician",
+    "name": "David Cox (statistician)",
+    "era": "5",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Introduced proportional hazards modeling for survival analysis."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/David_Cox_(statistician)"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Francis Galton",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Donoho"
+    ]
+  },
+  {
+    "id": "edgar-f-codd",
+    "name": "Edgar F. Codd",
+    "era": "5",
+    "discipline": [
+      "Databases"
+    ],
+    "discoveries": [
+      "Proposed the relational model foundational to modern databases."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Databases"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edgar_F._Codd"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "donald-knuth",
+    "name": "Donald Knuth",
+    "era": "5",
+    "discipline": [
+      "Computing"
+    ],
+    "discoveries": [
+      "Systematized algorithm analysis and rigorous programming practice."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Computing"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Donald_Knuth"
+    ],
+    "relatedScientists": [
+      "Ada Lovelace",
+      "Charles Babbage",
+      "John von Neumann",
+      "Grace Hopper",
+      "Margaret Hamilton (software engineer)"
+    ]
+  },
+  {
+    "id": "richard-hamming",
+    "name": "Richard Hamming",
+    "era": "5",
+    "discipline": [
+      "Information theory"
+    ],
+    "discoveries": [
+      "Developed error-correcting codes for reliable digital communication."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Information theory"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Richard_Hamming"
+    ],
+    "relatedScientists": [
+      "Claude Shannon"
+    ]
+  },
+  {
+    "id": "trevor-hastie",
+    "name": "Trevor Hastie",
+    "era": "6",
+    "discipline": [
+      "Machine learning"
+    ],
+    "discoveries": [
+      "Co-authored influential statistical learning methods and texts."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Machine learning"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Trevor_Hastie"
+    ],
+    "relatedScientists": [
+      "Leo Breiman",
+      "Robert Tibshirani"
+    ]
+  },
+  {
+    "id": "robert-tibshirani",
+    "name": "Robert Tibshirani",
+    "era": "6",
+    "discipline": [
+      "Machine learning"
+    ],
+    "discoveries": [
+      "Developed the lasso method for regression and feature selection."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Machine learning"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_Tibshirani"
+    ],
+    "relatedScientists": [
+      "Leo Breiman",
+      "Trevor Hastie"
+    ]
+  },
+  {
+    "id": "yoshua-bengio",
+    "name": "Yoshua Bengio",
+    "era": "7",
+    "discipline": [
+      "AI"
+    ],
+    "discoveries": [
+      "Advanced representation learning and neural-network research."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "AI"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoshua_Bengio"
+    ],
+    "relatedScientists": [
+      "Rana el Kaliouby",
+      "Cynthia Breazeal"
+    ]
+  },
+  {
+    "id": "demis-hassabis",
+    "name": "Demis Hassabis",
+    "era": "7",
+    "discipline": [
+      "Scientific AI"
+    ],
+    "discoveries": [
+      "Led AI research teams advancing protein-structure prediction."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Scientific AI"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Demis_Hassabis"
+    ],
+    "relatedScientists": [
+      "Anima Anandkumar"
+    ]
+  },
+  {
+    "id": "jennifer-doudna",
+    "name": "Jennifer Doudna",
+    "era": "7",
+    "discipline": [
+      "Biology"
+    ],
+    "discoveries": [
+      "Co-developed CRISPR genome-editing technology; adjacent to data science."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Biology"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jennifer_Doudna"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "anima-anandkumar",
+    "name": "Anima Anandkumar",
+    "era": "7",
+    "discipline": [
+      "Scientific AI"
+    ],
+    "discoveries": [
+      "Developed scalable machine learning and scientific AI approaches."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Scientific AI"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anima_Anandkumar"
+    ],
+    "relatedScientists": [
+      "Demis Hassabis"
+    ]
+  },
+  {
+    "id": "david-donoho",
+    "name": "David Donoho",
+    "era": "6",
+    "discipline": [
+      "Statistics"
+    ],
+    "discoveries": [
+      "Advanced sparse representations and high-dimensional statistics."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Statistics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/David_Donoho"
+    ],
+    "relatedScientists": [
+      "Carl Friedrich Gauss",
+      "Ronald Fisher",
+      "John Tukey",
+      "Gertrude Mary Cox",
+      "George E. P. Box",
+      "Francis Galton",
+      "Karl Pearson",
+      "Jerzy Neyman",
+      "Egon Pearson",
+      "William Sealy Gosset",
+      "David Cox (statistician)"
+    ]
+  },
+  {
+    "id": "margaret-hamilton-software-engineer",
+    "name": "Margaret Hamilton (software engineer)",
+    "era": "4",
+    "discipline": [
+      "Computing"
+    ],
+    "discoveries": [
+      "Led development of Apollo flight software engineering."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Computing"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"
+    ],
+    "relatedScientists": [
+      "Ada Lovelace",
+      "Charles Babbage",
+      "John von Neumann",
+      "Grace Hopper",
+      "Donald Knuth"
+    ]
+  },
+  {
+    "id": "karen-sparck-jones",
+    "name": "Karen Spärck Jones",
+    "era": "5",
+    "discipline": [
+      "Information retrieval"
+    ],
+    "discoveries": [
+      "Developed inverse document frequency ideas for information retrieval."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Information retrieval"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Karen_Spärck_Jones"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "marian-rejewski",
+    "name": "Marian Rejewski",
+    "era": "3",
+    "discipline": [
+      "Cryptanalysis"
+    ],
+    "discoveries": [
+      "Applied mathematical cryptanalysis to early Enigma codebreaking."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Cryptanalysis"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marian_Rejewski"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "george-dantzig",
+    "name": "George Dantzig",
+    "era": "4",
+    "discipline": [
+      "Optimization"
+    ],
+    "discoveries": [
+      "Developed the simplex algorithm for linear programming."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Optimization"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Dantzig"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "elinor-ostrom",
+    "name": "Elinor Ostrom",
+    "era": "5",
+    "discipline": [
+      "Social science"
+    ],
+    "discoveries": [
+      "Used comparative empirical evidence to study commons governance."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Social science"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elinor_Ostrom"
+    ],
+    "relatedScientists": [
+      "W. E. B. Du Bois"
+    ]
+  },
+  {
+    "id": "tu-youyou",
+    "name": "Tu Youyou",
+    "era": "5",
+    "discipline": [
+      "Health"
+    ],
+    "discoveries": [
+      "Led research identifying artemisinin as an antimalarial treatment."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Health"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tu_Youyou"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "chien-shiung-wu",
+    "name": "Chien-Shiung Wu",
+    "era": "4",
+    "discipline": [
+      "Physics"
+    ],
+    "discoveries": [
+      "Designed a decisive experiment challenging parity conservation."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Physics"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "ingrid-daubechies",
+    "name": "Ingrid Daubechies",
+    "era": "5",
+    "discipline": [
+      "Signal processing"
+    ],
+    "discoveries": [
+      "Developed wavelet methods useful for signal and image processing."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "Signal processing"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ingrid_Daubechies"
+    ],
+    "relatedScientists": []
+  },
+  {
+    "id": "rana-el-kaliouby",
+    "name": "Rana el Kaliouby",
+    "era": "7",
+    "discipline": [
+      "AI"
+    ],
+    "discoveries": [
+      "Developed affective computing applications and research."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "AI"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rana_el_Kaliouby"
+    ],
+    "relatedScientists": [
+      "Yoshua Bengio",
+      "Cynthia Breazeal"
+    ]
+  },
+  {
+    "id": "cynthia-breazeal",
+    "name": "Cynthia Breazeal",
+    "era": "6",
+    "discipline": [
+      "AI"
+    ],
+    "discoveries": [
+      "Advanced socially interactive robotics research."
+    ],
+    "visualization": "workflow",
+    "learningTopics": [
+      "AI"
+    ],
+    "learningDifficulty": "beginner",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cynthia_Breazeal"
+    ],
+    "relatedScientists": [
+      "Yoshua Bengio",
+      "Rana el Kaliouby"
+    ]
+  }
+]

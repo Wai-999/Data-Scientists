@@ -1,0 +1,19 @@
+{
+  "checks": [
+    "All eight laboratories render, reveal, save evidence and reflection, and restart.",
+    "Map controls, chart filters, zero-evidence Bayes, tape execution, entropy endpoints, editable EDA, process shifts, and causal scenarios passed.",
+    "Both datasets fit baseline, neighbors, tree, and logistic models; testing metrics, error inspection, and notebook saving passed.",
+    "All seven academy levels require practice, assessment, and reflection; completion survives reload.",
+    "Notebook JSON round trip, duplicate skipping, invalid schema rejection, safe text, and Markdown export passed.",
+    "Network collaboration evidence, profile navigation, all-scientist comparison, seven matching modes, and all 48 story chapters passed.",
+    "Blocked Python runtime reports a useful error and preserves editor contents.",
+    "Workspaces fit 320, 375, 768, 1024, and 1440px without page-level overflow; reduced motion passed.",
+    "Malformed notebook data is reported and retained; storage-disabled startup leaves the atlas and laboratories usable.",
+    "No uncaught browser errors; core workspaces run with external requests blocked at a project base path."
+  ],
+  "performance": {
+    "domContentLoadedMs": 43.19999998807907,
+    "transferBytes": 144247,
+    "usedJSHeapBytes": 6361827
+  }
+}
