@@ -1,31 +1,52 @@
-# The Minds That Changed the World
+# The Minds That Changed the World — V5
 
-The static research atlas starts at `index.html`. It builds on the supplied V4 site; the original versioned HTML files remain as reference copies.
+A static scientific discovery museum and beginner data science academy. V5 extends the supplied V4 atlas, preserves its 71 unique scientist profiles, and keeps the previously implemented **From Discovery to Your First Research Project** worksheet on every profile.
 
-Every scientist profile includes **From Discovery to Your First Research Project**. The button opens a beginner worksheet inside the profile with a topic-based starter question and the six stages Discover → Understand → Experiment → Analyze → Apply → Reflect. These are modern teaching exercises inspired by a profile, rather than reproductions of the scientist's research.
+## Run
 
-Learners can edit their question, plan, and reflection. Drafts are saved separately for each scientist in browser storage. **Save project to notebook** adds a snapshot to the existing notebook, preserving other notes; saving the same snapshot twice does not duplicate it. Revised snapshots are appended as a record of the investigation. **Open my research notebook** closes the profile and moves keyboard focus to the notes. The existing notebook export includes saved projects.
-
-## Run locally
-
-No build step or application dependencies are required. Open `index.html` directly, or serve the folder:
+No application build or backend is required:
 
 ```sh
 python3 -m http.server 8000
 ```
 
-Visit `http://localhost:8000/index.html`. Keep `index.html`, `research-project.js`, and `research-project.css` together. Their relative paths also support GitHub Pages project URLs such as `/Data-Scientists/`.
+Open `http://localhost:8000/`. Use HTTP for the Python worker; opening a file directly does not provide the same worker environment. The atlas and learning controls are static HTML, CSS, and JavaScript. Python is downloaded only when requested.
+
+## Learning workspaces
+
+- **Eight scientific laboratories:** John Snow, Florence Nightingale, Thomas Bayes, Alan Turing, Claude Shannon, John Tukey, W. Edwards Deming, and Judea Pearl. Each includes context, data classification, a problem, evidence, controls, hypothesis, calculated results, explanation, application, reflection, notebook saving, and restart.
+- **Actual classification:** a locally attributed Iris dataset and a seeded synthetic dataset; stratified train/test splits; majority baseline, K-nearest neighbors, decision tree, and multinomial logistic regression; confusion matrices, class-specific metrics, and record-level error inspection.
+- **Seven-level academy:** objectives, prerequisites, explanations, demonstrations, worked examples, numeric practice, assessments, applications, resources, and explicit completion criteria. Recommendations use prerequisites, assessment performance, and selected interests.
+- **Discovery network and comparison:** four node types, typed relationships, source-backed collaboration, zoom/pan/filter/select controls, all-scientist comparison, suggested pairs, and saved reflections.
+- **Stories and review:** six source-linked chapters for each flagship scientist, seven matching modes, two difficulty levels, persistent scores, and transparent optional one-day review of missed concepts.
+- **Python playground:** eight exercises execute real Python through pinned Pyodide 314.0.7 in a module worker. Includes loading/error states, run/stop/reset, solutions, expected-output checking, and an execution timeout.
+- **Research notebook:** structured local entries with scientist/topic/laboratory/project/date metadata, filtering, editing, JSON/Markdown export, and schema-validated merge imports. Original free-form notes, bookmarks, per-scientist project drafts, and legacy mission progress are retained.
+- **Resource library:** provider/topic/difficulty/stage metadata and actual automated verification outcomes, with alternative learning destinations.
 
 ## Verify
 
-The browser regression script uses Playwright and Chrome:
+Use Node.js and install the pinned test-only dependency:
 
 ```sh
-node tests/research-project.cjs
+npm install
+npx playwright install chromium
+npm test
+npm run test:python
+npm run check:links
 ```
 
-Install Playwright in your test environment, or set `NODE_PATH` to an existing Playwright package directory. The script starts its own local server and checks all profiles, isolated drafts, notebook saving and export, keyboard interaction, mobile layouts, and existing gallery and learning features. It blocks optional external portrait requests so the tests run without internet access.
+The browser tests use a local Chrome installation on macOS when available; otherwise they use Playwright Chromium. Set `CHROME_PATH` to choose another browser executable. In a bundled Codex environment, `NODE_PATH` can point to the existing Playwright package directory instead of installing another copy.
 
-## Hosting and storage
+`npm test` runs independent mathematical/model reference checks, the original 71-profile regression suite, and the V5 browser journeys. The browser suites start temporary localhost servers, use a `/Data-Scientists/` base path, and block optional external requests. `test:python` separately downloads the real runtime and executes all eight exercises. `check:links` follows public redirects, keeps certificate validation enabled, and reports access blocks, HTTP errors, timeouts, and network failures separately. It updates the generated resource metadata and `docs/link-report.json`.
 
-For GitHub Pages, publish the root folder containing the three application files. The site needs no backend. Portraits and external reading links require an internet connection; the project worksheet itself works locally. Personal notes and drafts stay in the browser, so export the notebook for a backup before clearing browser storage.
+## Architecture and delivery
+
+`index.html` retains the original atlas. V5 uses small plain scripts in `src/` for calculations, metadata, laboratories, learning tools, and integration, with shared styles in `src/styles/v5.css`. There are no production package dependencies. Pure calculations are also exported for Node reference tests. Structured scientist and laboratory snapshots are generated by the browser verification suite from the validated runtime catalog.
+
+See [the baseline audit](docs/BASELINE-AUDIT.md), [the supplied brief](docs/V5-BRIEF.md), [testing results](TESTING.md), [sources and licenses](DATA-SOURCES.md), [changes](CHANGELOG.md), and [GitHub Pages instructions](docs/DEPLOYMENT.md).
+
+## Practical limits
+
+Laboratory evidence is explicitly synthetic, mathematical, or reconstructed. The John Snow map uses approximate streets and arbitrary coordinates; it does not claim original death locations. Nightingale's counts are invented examples. The network includes only catalogued, sourced historical relationships and identifies conceptual mappings separately. Concise profiles cannot substitute for full historical scholarship.
+
+Notes and progress stay in browser storage. Export before clearing it. Core workspaces run without external services when their local files are available; portraits, reading destinations, and first-time Python loading need network access. The worker keeps Python responsive and stoppable, but browser execution is not a strong boundary for untrusted code. Browser testing targets Chromium; no cross-browser or comprehensive WCAG certification is claimed.

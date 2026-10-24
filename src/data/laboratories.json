@@ -1,0 +1,210 @@
+[
+  {
+    "id": "snow",
+    "name": "John Snow",
+    "title": "Trace an outbreak",
+    "concept": "Spatial epidemiology",
+    "classification": "Reconstructed educational map · synthetic counts · approximate street schematic",
+    "problem": "Which water source is most strongly implicated by the available evidence?",
+    "context": "In 1854 Soho, Snow investigated water exposure while many attributed cholera to bad air. His reasoning combined records, interviews, and comparisons.",
+    "evidence": "Thirty synthetic household locations and three pumps. Coordinates are arbitrary drawing units, not original addresses or a georeferenced historical map.",
+    "application": "Plan an exposure investigation with public-health teams, considering alternative explanations and population denominators.",
+    "reflection": "What additional exposure evidence would strengthen or weaken your hypothesis?",
+    "source": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5334a1.htm",
+    "objectives": [
+      "Recognize spatial clustering",
+      "Distinguish association from causation"
+    ],
+    "prerequisites": [
+      "Read a map"
+    ],
+    "controls": [
+      "pump",
+      "zoom",
+      "pan"
+    ],
+    "assessment": "Record a hypothesis, inspect at least two pumps, and discuss exposure and confounding."
+  },
+  {
+    "id": "nightingale",
+    "name": "Florence Nightingale",
+    "title": "Make mortality patterns visible",
+    "concept": "Visual encoding",
+    "classification": "Synthetic educational mortality counts · not Crimean War records",
+    "problem": "Which cause dominates, and does the visual encoding communicate it accurately?",
+    "context": "Nightingale used mortality records and statistical graphics in her campaign for sanitary reform. Many people and institutional changes contributed to reform.",
+    "evidence": "Six invented monthly counts for disease, wounds, and other causes, with exact values in the table.",
+    "application": "Compare categories and communicate priorities without confusing counts with rates or overstating a chart’s policy effect.",
+    "reflection": "What population or exposure data would you need to compare mortality risks?",
+    "source": "https://www.kcl.ac.uk/people/florence-nightingale",
+    "objectives": [
+      "Compare area and length encodings",
+      "Inspect denominators"
+    ],
+    "prerequisites": [
+      "Compare counts"
+    ],
+    "controls": [
+      "month",
+      "chart",
+      "category"
+    ],
+    "assessment": "Explain the main pattern and why polar radii use square roots."
+  },
+  {
+    "id": "bayes",
+    "name": "Thomas Bayes",
+    "title": "Update a belief",
+    "concept": "Conditional probability",
+    "classification": "Mathematical simulation · invented screening scenario",
+    "problem": "Estimate P(condition | positive) before calculating it.",
+    "context": "Bayes’s work, published posthumously with Richard Price’s contribution, became part of the foundations of Bayesian inference.",
+    "evidence": "Adjustable prevalence, sensitivity, specificity, and expected population counts. This is a probability exercise.",
+    "application": "Reason about evidence and base rates in quality checks, research, and screening models.",
+    "reflection": "Why can a highly sensitive test still have a low positive predictive value?",
+    "source": "https://doi.org/10.1098/rstl.1763.0053",
+    "objectives": [
+      "Calculate conditional probability",
+      "Explain base rates"
+    ],
+    "prerequisites": [
+      "Fractions and percentages"
+    ],
+    "controls": [
+      "prior",
+      "sensitivity",
+      "specificity",
+      "population"
+    ],
+    "assessment": "Compare an initial estimate with the calculated posterior and explain assumptions."
+  },
+  {
+    "id": "turing",
+    "name": "Alan Turing",
+    "title": "Follow an algorithm",
+    "concept": "Deterministic computation",
+    "classification": "Mathematical teaching model · not a historical machine reconstruction",
+    "problem": "Predict how a tape changes under a transition table.",
+    "context": "Turing’s 1936 paper formalized an abstract model of computation and investigated the limits of algorithmic procedures.",
+    "evidence": "Binary increment, unary append, and symbol replacement programs with explicit states and transitions.",
+    "application": "Debug programs by tracing instructions, state, and edge cases.",
+    "reflection": "How does a transition table differ from a claim that every problem is computable?",
+    "source": "https://doi.org/10.1112/plms/s2-42.1.230",
+    "objectives": [
+      "Trace state transitions",
+      "Explain halting"
+    ],
+    "prerequisites": [
+      "Read binary symbols"
+    ],
+    "controls": [
+      "program",
+      "step",
+      "run",
+      "pause"
+    ],
+    "assessment": "Predict an output and inspect the transition that leads to halting."
+  },
+  {
+    "id": "shannon",
+    "name": "Claude Shannon",
+    "title": "Measure uncertainty",
+    "concept": "Shannon entropy",
+    "classification": "Mathematical simulation · synthetic communication symbols",
+    "problem": "Which distribution is more uncertain, and what happens when the channel is noisy?",
+    "context": "Shannon’s 1948 theory quantified information and reliable communication in the presence of noise.",
+    "evidence": "A binary symbol distribution, its entropy, fixed binary symbols, and a reproducible noisy channel.",
+    "application": "Think about coding, compression, and communication capacity. Entropy measures uncertainty under a model, not truth or meaning.",
+    "reflection": "Why does a balanced binary source have more entropy than a predictable source?",
+    "source": "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x",
+    "objectives": [
+      "Calculate entropy",
+      "Separate noise from source uncertainty"
+    ],
+    "prerequisites": [
+      "Probability and logarithms"
+    ],
+    "controls": [
+      "probability",
+      "noise"
+    ],
+    "assessment": "Compare two distributions and explain the zero-probability convention."
+  },
+  {
+    "id": "tukey",
+    "name": "John Tukey",
+    "title": "Explore before modelling",
+    "concept": "Exploratory data analysis",
+    "classification": "Synthetic editable observations",
+    "problem": "Does the mean describe a dataset containing an extreme value?",
+    "context": "Tukey emphasized exploratory examination of data and graphical tools that reveal patterns deserving further inquiry.",
+    "evidence": "Small editable datasets displayed as a histogram, box plot, and index-value scatter plot.",
+    "application": "Inspect distributions, errors, missingness, and outliers before fitting a model.",
+    "reflection": "Is an IQR-flagged value necessarily an error? What would you investigate?",
+    "source": "https://www.itl.nist.gov/div898/handbook/eda/eda.htm",
+    "objectives": [
+      "Compare robust summaries",
+      "Use quartiles and IQR"
+    ],
+    "prerequisites": [
+      "Read a numeric table"
+    ],
+    "controls": [
+      "dataset",
+      "observations"
+    ],
+    "assessment": "Compare the mean and median and explain whether flagged observations should be removed."
+  },
+  {
+    "id": "deming",
+    "name": "W. Edwards Deming",
+    "title": "Study process variation",
+    "concept": "Statistical process control",
+    "classification": "Seeded synthetic process measurements",
+    "problem": "Does the monitoring sequence suggest a change relative to a fixed baseline?",
+    "context": "Deming helped popularize statistical quality thinking, drawing on a tradition that includes Walter Shewhart’s control charts.",
+    "evidence": "Twenty baseline observations followed by generated monitoring observations. Limits remain fixed from the baseline.",
+    "application": "Investigate signals in a process without changing settings in response to every random fluctuation.",
+    "reflection": "Why is a point outside a control limit a signal for investigation rather than proof of a cause?",
+    "source": "https://www.itl.nist.gov/div898/handbook/pmc/section3/pmc322.htm",
+    "objectives": [
+      "Distinguish common and special causes",
+      "Interpret estimated limits"
+    ],
+    "prerequisites": [
+      "Mean and variation"
+    ],
+    "controls": [
+      "variation",
+      "shift",
+      "generate"
+    ],
+    "assessment": "Compare stable and shifted sequences against the baseline and describe uncertainty."
+  },
+  {
+    "id": "pearl",
+    "name": "Judea Pearl",
+    "title": "Question a correlation",
+    "concept": "Causal graphs",
+    "classification": "Mathematical structural causal model · synthetic probabilities",
+    "problem": "How can observational association differ from an intervention?",
+    "context": "Pearl developed graphical frameworks for causal reasoning in which conclusions depend on explicitly stated structural assumptions.",
+    "evidence": "Predefined confounder, mediator, and collider diagrams with toy structural equations.",
+    "application": "Design studies and state causal assumptions before interpreting associations.",
+    "reflection": "When could controlling for a variable introduce rather than remove bias?",
+    "source": "https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf",
+    "objectives": [
+      "Recognize confounders, mediators, colliders",
+      "Distinguish observing and intervening"
+    ],
+    "prerequisites": [
+      "Conditional probability"
+    ],
+    "controls": [
+      "scenario",
+      "hidden",
+      "intervention"
+    ],
+    "assessment": "Identify a variable’s role and compare observation with intervention under the specified model."
+  }
+]

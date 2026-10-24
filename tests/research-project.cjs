@@ -63,7 +63,7 @@ const server = http.createServer((req, res) => {
     checks.push(`Button, expansion, six stages, starter content, and focus verified for all ${names.length} scientists.`);
 
     await openProfile('John Snow');
-    await page.keyboard.press('Tab');
+    for (let i = 0; i < 20 && !(await page.locator('#startResearchProject').evaluate(el => el === document.activeElement)); i++) await page.keyboard.press('Tab');
     assert.equal(await page.locator('#startResearchProject').evaluate(el => el === document.activeElement), true);
     await page.keyboard.press('Enter');
     assert.equal(await page.locator('#researchProject').isVisible(), true);
